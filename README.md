@@ -1,3 +1,6 @@
+[![](https://g.codefresh.io/api/badges/build?repoOwner=alxsap&repoName=demochat&branch=master&pipelineName=demochat&accountName=alxsap)](https://g.codefresh.io/repositories/alxsap/demochat/builds?filter=trigger:build)
+
+
 ![Let's Chat Greylock](https://codefresh.io/wp-content/uploads/2017/03/lets-chat.png)
 
 
